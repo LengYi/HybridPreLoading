@@ -16,5 +16,7 @@ iOS webview Hybrid开发预加载
 [NSURLProtocol unregisterClass:[HybridPreLoading class]];
 ```
 
+![demo](https://github.com/linushao/HybridPreLoading/blob/master/demo.png)
+
 新建www文件夹，里面再新建css、img、js文件夹，将需要预先加载的文件分别放在对应的文件夹即可，简单快捷方便吧~~
 
